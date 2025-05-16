@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WaylandManager.iml" filepath="$PROJECT_DIR$/.idea/WaylandManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HyprlandManager.iml" filepath="$PROJECT_DIR$/.idea/HyprlandManager.iml" />
     </modules>
   </component>
 </project>
